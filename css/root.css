@@ -1,0 +1,10 @@
+:root {
+    --first-family: "NotoSans";
+    --second-family: "Roboto";
+  }
+
+  :root {
+    --primary-color: #09cc66;
+    --secondary-color: #F5DF0A;
+    --box-shadow: 0 7px 15px 0 rgba(9, 204, 102, 0.33);
+  }

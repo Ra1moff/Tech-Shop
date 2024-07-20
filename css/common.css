@@ -1,0 +1,35 @@
+body {
+    background: #f6f6f6;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: var(--first-family);
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    vertical-align: bottom;
+    max-width: 100%;
+}
+
+.container {
+    padding: 0 15px;
+    max-width: 1252px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+input, textarea {
+    border: none;
+    outline: none;
+}

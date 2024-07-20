@@ -1,0 +1,37 @@
+/* Noto-sans */
+
+@font-face {
+    font-family: "NotoSans";
+    src: url(../fonts/Notosans/NotoSans-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "NotoSans";
+    src: url(../fonts/Notosans/NotoSans-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "NotoSans";
+    src: url(../fonts/Notosans/NotoSans-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "NotoSans";
+    src: url(../fonts/Notosans/NotoSans-SemiBold.ttf);
+    font-weight: 600;
+}
+
+/* Noto-sans */
+
+/* Roboto */
+
+@font-face {
+    font-family: "Roboto";
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+
+/* Roboto */
